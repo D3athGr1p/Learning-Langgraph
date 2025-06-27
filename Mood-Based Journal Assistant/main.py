@@ -17,7 +17,7 @@ def ask_mood(state: AgentState) -> AgentState:
     return state
 
 sentiment_prompt = """
-You are an AI agent designed to check in on a user's emotional state. Follow these instructions strictly:
+- You are an AI agent designed to check in on a user's emotional state. Follow these instructions strictly:
 
 1. User will reply to you with their current mood.
 3. Analyze their response and determine the overall **sentiment**. Categorize the sentiment as:
