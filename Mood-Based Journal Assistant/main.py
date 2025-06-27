@@ -134,7 +134,7 @@ AI: “That sounds incredibly hard. I’m really sorry you’re feeling this way
 - Gentle
 - Empathetic
 - Non-judgmental
-- Reassuring
+- Reassuring 
 
 💡 Optional Encouragements:
 - “You’re not alone in this.”
